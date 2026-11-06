@@ -53,7 +53,7 @@ Before running the frontend, ensure you have:
 
 - **Node.js** (v16.x or higher recommended)
 - **npm** or **yarn**
-- **LinkStack Backend API** running locally or deployed. ([Backend Repository](https://github.com/manuelalejandrojimeneztorres/linkstack-backend))
+- **LinkStack Backend API** running locally or deployed. ([Backend Repository](https://github.com/majimtor/linkstack-backend))
 
 ---
 
@@ -72,7 +72,7 @@ Create a `.env` file in the root of the project (you can use `.env.example` as a
 **1. Clone the repository:**
 
 ```bash
-git clone https://github.com/manuelalejandrojimeneztorres/linkstack-frontend.git
+git clone https://github.com/majimtor/linkstack-frontend.git
 cd linkstack-frontend
 ```
 
@@ -135,4 +135,4 @@ This project is licensed under the **GNU General Public License v3.0 (GPLv3)**.
 
 ## ✉️ Maintainer
 
-[**Manuel Alejandro Jiménez Torres**](https://github.com/manuelalejandrojimeneztorres)
+[**Manuel Alejandro Jiménez Torres**](https://github.com/majimtor)
